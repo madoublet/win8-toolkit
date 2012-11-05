@@ -82,7 +82,7 @@ var datastore = {
     },
 
     /*  
-        datastore.getIndex('file', 'recent', function (arr) {
+        datastore.get('file', 'recent', function (arr) {
                 for(obj in arr){
                     var param = obj.param;
                 }
