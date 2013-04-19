@@ -1,0 +1,13 @@
+{
+  "name": "win8-datastore",
+  "repo": "happygui/win8-datastore",
+  "description": "Storage utilities for Windows 8 apps in Javascript",
+  "version": "0.0.1",
+  "keywords": ["windows","windows8","win8","datastorage"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
